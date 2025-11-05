@@ -94,7 +94,7 @@ http://127.0.0.1:5000/
 
 ## Author
 
-Developed by [Your Name]  
+Developed by Dev Maheshwari
 Computer Science Engineering student focused on applications of machine learning in cybersecurity.
 
 ---
